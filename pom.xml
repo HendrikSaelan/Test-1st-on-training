@@ -21,7 +21,7 @@
 		<java.version>17</java.version>
 		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
 		<sonar.organization>hendriksaelan</sonar.organization>
-		<sonar.projectKey>hendriksaelan</sonar.projectKey>
+		<sonar.projectKey>HendrikSaelan_Test-1st-on-training</sonar.projectKey>
 		<sonar-maven-plugin.version>3.9.1.2184</sonar-maven-plugin.version>
 		<!-- Serenity & Cucumber-related configuration properties -->
 		<serenity.version>4.0.27</serenity.version>
